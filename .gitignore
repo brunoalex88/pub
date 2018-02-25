@@ -1,0 +1,11 @@
+node_modules
+node_modules_
+databases
+package-lock.json
+public/vendor
+*.bat
+*.log.*
+npm-debug.log
+.DS_Store
+/*.env
+dist

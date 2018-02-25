@@ -1,0 +1,22 @@
+{
+  "name": "pub",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brunoalex88/pub.git"
+  },
+  "author": "obruno",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brunoalex88/pub/issues"
+  },
+  "homepage": "https://github.com/brunoalex88/pub#readme",
+  "dependencies": {
+    "express": "^4.8.4"
+  }
+}
