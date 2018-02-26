@@ -17,6 +17,11 @@
   },
   "homepage": "https://github.com/brunoalex88/pub#readme",
   "dependencies": {
-    "express": "^4.8.4"
+    "body-parser": "^1.6.7",
+    "express": "^4.8.4",
+    "express-load": "^1.1.16",
+    "method-override": "^2.1.3",
+    "mongodb": "^1.4.40",
+    "mongoose": "^3.8.40"
   }
 }
